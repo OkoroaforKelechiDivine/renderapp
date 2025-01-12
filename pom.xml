@@ -67,7 +67,7 @@
 							<artifactId>lombok</artifactId>
 						</exclude>
 					</excludes>
-					<mainClass>backend.springboot-render.SpringbootRenderApplication</mainClass>
+					<mainClass>backend.springboot_render.SpringbootRenderApplication</mainClass>
 				</configuration>
 			</plugin>
 		</plugins>
